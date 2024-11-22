@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Library Management System",
+    "desc": "The Library Management System is a Python application to manage books in a library. It allows users to add, view, borrow, and return books through a menu-driven interface.",
+    "image": "lib",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/Prem727/LibraryManagementSystem",
+      "code": "https://github.com/Prem727/LibraryManagementSystem"
+    }
+  },
+  {
+    "name": "Recommendation-System",
+    "desc": "The Recommendation System is a Python project that uses filtering techniques to suggest movies based on user preferences and moods.",
+    "image": "RecommadationSystem",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/Prem727/Recommendation-System",
+      "code": "https://github.com/Prem727/Recommendation-System"
+    }
+  },
+  {
+    "name": "Multi-Page Business Website",
+    "desc": "The Multi-Page Business Website is a responsive project with pages like Home, About, Services, Blog, and Contact. It ensures seamless navigation across devices.",
+    "image": "Business Website",
+    "category": "Forntend",
+    "links": {
+      "view": "https://github.com/Prem727/Multi_Page-Business-Website",
+      "code": "https://github.com/Prem727/Multi_Page-Business-Website"
+    }
+  },
+  {
+    "name": "Ecommerce Website",
+    "desc": "The Ecommerce Website is a multi-functional platform for managing online shopping activities. It provides a user-friendly interface for product browsing,cart management.",
+    "image": "Ecommerce Website",
+    "category": "Forntend",
+    "links": {
+      "view": "https://github.com/Prem727/Ecommerce",
+      "code": "https://github.com/Prem727/Ecommerce"
+    }
+  },
+  {
+    "name": "To-Do-List Restaurant",
+    "desc": "The project is an advanced to-do list application for managing daily tasks efficiently. It uses HTML, CSS, and JavaScript for a responsive interface.",
+    "image": "To_Do_List",
+    "category": "Forntend",
+    "links": {
+      "view": "https://github.com/Prem727/Brainwave_Matrix_Intern",
+      "code": "https://github.com/Prem727/Brainwave_Matrix_Intern"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "The Calculator is a web app built with HTML, CSS, and JavaScript that performs basic arithmetic operations.",
+    "image": "Calculator",
+    "category": "Forntend",
+    "links": {
+      "view": "https://github.com/Prem727/calculator",
+      "code": "https://github.com/Prem727/calculator"
+    }
+  }
+]
